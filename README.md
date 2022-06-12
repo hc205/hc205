@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hc-schoolextensions
+- 👋 Hi, I’m @hc205
 - 👀 I’m interested in web and extension development
 - 🌱 I’m currently learning advanced JavaScript
 - 💞️ I’m looking to collaborate on web and extension development projects
